@@ -33,6 +33,8 @@ var taxpayer = await fiskit.Taxpayers.RetrieveAsync(30712345671);  // name and V
 
 Full documentation: https://fiskit.com.ar/developers
 
+Coding with an AI agent? Point it to https://fiskit.com.ar/llms.txt: the API rules, errors and examples in plain text.
+
 ---
 
 ## Español
@@ -51,3 +53,5 @@ var factura = await fiskit.Invoices.CreateAsync(
 En ASP.NET Core: `builder.Services.AddFiskit(o => o.ApiKey = builder.Configuration["Fiskit:ApiKey"]);` y pedís `FiskitClient` por inyección. Las claves `sk_test_...` emiten en homologación, sin validez fiscal; las `sk_live_...` emiten facturas reales.
 
 Documentación completa: https://fiskit.com.ar/developers
+
+¿Programás con un agente de IA? Pasale https://fiskit.com.ar/llms.txt: las reglas, errores y ejemplos de la API en texto plano.
