@@ -11,6 +11,8 @@
     <Description>Official .NET client for the FisKit API: Argentine electronic invoices with ARCA (ex AFIP) in a single request.</Description>
     <PackageTags>arca;afip;factura-electronica;invoicing;argentina;cae;fiskit</PackageTags>
     <PackageProjectUrl>https://fiskit.com.ar/developers</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/FidelGenre/fiskit-dotnet</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
