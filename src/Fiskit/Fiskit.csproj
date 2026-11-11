@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <RootNamespace>Fiskit</RootNamespace>
     <PackageId>Fiskit</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>FisKit</Authors>
     <Description>Official .NET client for the FisKit API: Argentine electronic invoices with ARCA (ex AFIP) in a single request.</Description>
     <PackageTags>arca;afip;factura-electronica;invoicing;argentina;cae;fiskit</PackageTags>
